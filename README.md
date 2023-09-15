@@ -1,5 +1,5 @@
 ### Hi there 👋
-[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerard-mccann/)
+[linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]
 <!--
 **GMcC-94/GMcC-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,6 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 ![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]
+[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerard-mccann/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
